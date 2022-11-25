@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.a{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.a:hover{
+    height: 300px;
+    width: 300px;   
+    transition: width 3s, height 3s;
+}
+
+.jk{
+    margin-left: 58px;
+}
